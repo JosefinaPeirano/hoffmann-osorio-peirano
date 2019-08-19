@@ -1,37 +1,37 @@
 var trabajos = [{
     figure: "media/rum.png",
     alt: "Descripción de la imagen",
-    title: "Título de primer trabajo",
+    title: "Rum",
     about: "Texto simulado de descripción de primer trabajo"
 }, {
     figure: "media/mako.png",
     alt: "Descripción de la imagen",
-    title: "Título de segundo trabajo",
+    title: "Mako",
     about: "Texto simulado de descripción de segundo trabajo"
 }, {
     figure: "media/virutex.png",
     alt: "Descripción de la imagen",
-    title: "Título de tercer trabajo",
+    title: "Parches Virutex",
     about: "Texto simulado de descripción de tercer trabajo"
 }, {
     figure: "media/zoologico.png",
     alt: "Descripción de la imagen",
-    title: "Título de cuarto trabajo",
+    title: "Enriquecimiento Ambiental Animal",
     about: "Texto simulado de descripción de cuarto trabajo"
 }, {
     figure: "media/foster.png",
     alt: "Descripción de la imagen",
-    title: "Título de quinto trabajo",
+    title: "Estampado",
     about: "Texto simulado de descripción de quinto trabajo"
 }, {
     figure: "media/el borrador.png",
     alt: "Descripción de la imagen",
-    title: "Título de sexto trabajo",
+    title: "El Borrador",
     about: "Texto simulado de descripción de sexto trabajo"
 }, {
     figure: "media/arruca.png",
     alt: "Descripción de la imagen",
-    title: "Título de séptimo trabajo",
+    title: "Arruca",
     about: "Texto simulado de descripción de séptimo trabajo"
 }];
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
