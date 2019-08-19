@@ -24,7 +24,7 @@ var trabajos = [{
     title: "Título de quinto trabajo",
     about: "Texto simulado de descripción de quinto trabajo"
 }, {
-    figure: "media/elborrador.png",
+    figure: "media/el borrador.png",
     alt: "Descripción de la imagen",
     title: "Título de sexto trabajo",
     about: "Texto simulado de descripción de sexto trabajo"
